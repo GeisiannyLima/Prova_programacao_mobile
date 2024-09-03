@@ -15,7 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<video width="640" height="360" controls>
-    <source src="./2024-09-03 19-16-03 (1).mkv" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+## Demo Video
+
+[Download or view the video](./2024-09-03%2019-16-03%20(1).mkv)
