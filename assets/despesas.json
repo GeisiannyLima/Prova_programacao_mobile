@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "userEmail": "user1@example.com",
+        "description": "Despesa A",
+        "amount": 50.0
+    },
+    {
+        "id": 2,
+        "userEmail": "user2@example.com",
+        "description": "Despesa B",
+        "amount": 75.0
+    }
+]

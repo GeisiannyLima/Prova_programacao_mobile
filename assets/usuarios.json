@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "email": "user1@example.com",
+        "password": "password1",
+        "name": "User One",
+        "rendaFixa": 1000.0
+    },
+    {
+        "id": 2,
+        "email": "user2@example.com",
+        "password": "password2",
+        "name": "User Two",
+        "rendaFixa": 2000.0
+    }
+]
